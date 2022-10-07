@@ -1,0 +1,15 @@
+body {
+    background-image: url("");
+}
+
+.center-div {
+    padding-top: 10%;
+}
+
+form {
+    padding: 0.3em
+}
+
+#login .title > span {
+    font-size: .8em;
+}
